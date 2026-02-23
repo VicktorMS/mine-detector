@@ -4,7 +4,7 @@
 -- ==========================================
 
 -- CHANGE THIS to your GitHub raw URL base
-local BASE_URL = "https://raw.githubusercontent.com/YOUR_USERNAME/player-detector/main/"
+local BASE_URL = "https://raw.githubusercontent.com/VicktorMS/mine-detector/main/"
 
 local files = {
     ["startup.lua"]     = BASE_URL .. "startup.lua",
